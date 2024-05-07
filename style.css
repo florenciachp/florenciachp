@@ -1,0 +1,137 @@
+a {
+    text-decoration: none;
+}
+
+
+.home {
+    background-color: rgb(208, 96, 40);
+    text-align: right;
+    display: flex;
+    justify-content: right;
+    gap: 50px;
+    align-items: center;
+    height: 100px;
+    padding-right: 100px;
+}
+
+.home i {
+    color: rgb(246, 242, 242);
+
+}
+
+
+
+h1 {
+    font-style: italic; 
+    text-align: center;
+    color: purple;
+    font-size: 120px;
+}
+
+.image {
+    position: relative;
+    justify-content: center;
+    left: 150px;
+    width: 150px;
+    height: 150px;
+}
+
+
+.flex-container {
+    padding-top: 100px;
+    background-color: white;
+    box-sizing: border-box;
+    text-align: center;
+    display: flex;
+    justify-content: right;
+    justify-content: space-around;
+}
+
+
+.flex-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 50px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.blue {
+    background-color: rgb(18, 70, 144);
+}
+
+.pink {
+    background-color: rgb(225, 53, 82);
+}
+
+.green {
+    background-color: rgb(10, 192, 61);
+}
+
+.tacosimage {
+    position: relative; 
+    left: 400px;
+}
+
+.box {
+    align-items: center;
+    display: flex;
+    width: 400px;
+    height: 100px;
+    background-color: rgb(167, 38, 206);
+    color: white;
+    justify-content: center;
+    text-align: center;
+    line-height: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    position: relative; 
+    left: 700px;
+}
+
+.text {
+    background-color: rgb(231, 154, 216);
+    padding-top: 32px;
+    padding-bottom: 32px;
+    color: white;
+    justify-content: center;
+    text-align: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+form input {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    width: 100px;
+}
+
+.reservations {
+    text-align: center;
+}
+
+.socialmedia {
+    background-color: rgb(208, 96, 40);
+    text-align: right;
+    display: flex;
+    justify-content: right;
+    gap: 50px;
+    align-items: center;
+    height: 100px;
+    padding-right: 100px;
+}
+
+.socialmedia i {
+    color: rgb(246, 242, 242);
+}
